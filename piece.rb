@@ -14,7 +14,6 @@ class Piece
         @color = color
         @board = board
         @pos = pos
-
     end
 
     def to_s
